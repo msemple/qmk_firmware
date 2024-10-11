@@ -34,3 +34,8 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 ## Official Website
 
 [qmk.fm](https://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+
+## Changes for Keychron K1 Pro Colemak layout
+
+Changes for the Keychron K1 Pro Colemak layout are only made to the k1pro_colemak branch of this repository.
+All the other branches are to remain unchanged and should be updated from the upstream Keychron QMK repository. 
